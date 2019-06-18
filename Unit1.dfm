@@ -18,7 +18,7 @@ object Form1: TForm1
     Top = 128
     Width = 63
     Height = 13
-    Caption = 'xxxxxxxxx'
+    Caption = 'eeeeeeeee'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
